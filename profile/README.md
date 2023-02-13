@@ -1,1 +1,2 @@
-# .github
+
+The application called "dashboard-jobschedule" is designed to streamline the management of a company and its employees. By dividing into teams and assigning work, users can effectively organize their work. Each user has a unique identifier and an employee profile that contains detailed information about their compensation and agreement. The application also allows users to register their work and view assigned tasks in a simple and convenient way. This way, employers and employees have a full view of their responsibilities and the ability to track progress.
